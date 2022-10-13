@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install react-scripts`
+
+You will need to run this command in order to install the necessary libraries locally.\
+This command shall be run prior to the "npm start" command.
+
 ### `npm start`
 
 Runs the app in the development mode.\
