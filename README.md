@@ -76,7 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### RoboFriends App
 
-Generate random robot cards with the help of an API. Filter the robots by searching them of the search bar.
+Generate random robot cards with the help of an API. Filter the robots by searching them on the search bar.
 
 ![robofriends](https://user-images.githubusercontent.com/97473701/208432474-35567f4a-2f04-4232-b5c4-83d20e4968aa.png)
 
