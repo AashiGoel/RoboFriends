@@ -73,3 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### RoboFriends App
+
+Generate random robot cards with the help of an API. Filter the robots by searching them of the search bar.
+
+![robofriends](https://user-images.githubusercontent.com/97473701/208432474-35567f4a-2f04-4232-b5c4-83d20e4968aa.png)
+
